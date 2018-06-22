@@ -1,6 +1,15 @@
 # RD2
 
+* [Introducción](#introducción)
+* [Trucar servomotores](#trucar-servomotores)
+* [Imprimir en 3D la estructura y las ruedas](#imprimir-en-3d-la-estructura-y-las-ruedas)
+* [Montar conexiones eléctricas RPi-servomotores](#montar-conexiones-eléctricas-rpi-servomotores)
+* [Enganchar webcam](#enganchar-webcam)
+* [Crear SD con Raspbian y robotDevastation-robots/raspi software](#crear-sd-con-raspbian-y-robotdevastation-robotsraspi-software)
+
 ![RD2 robot](/assets/rd2.jpg)
+
+## Introducción
 
 El robot RD2 es el de la figura. Dispone de los siguientes elementos.
 (Actualizar lista de componentes)
