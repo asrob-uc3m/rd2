@@ -2,5 +2,6 @@
 
 - [Montaje](montaje.md)
 
-![RD2 robot](/assets/rd2.jpg)
+Prototype status: in _robotera_. Raspi 1 screwed to chassis, with 8GB SDHC (large).
 
+![RD2 robot](/assets/rd2.jpg)
